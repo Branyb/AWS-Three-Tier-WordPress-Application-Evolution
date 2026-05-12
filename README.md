@@ -25,8 +25,10 @@ Stage6
 Make sure you are logged into AWS and in us-east-1
 VPC
 
+
 Video Guides
 HERE
+
 
 Architecture Diagrams
 Stage1 - PNG
