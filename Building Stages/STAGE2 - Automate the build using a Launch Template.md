@@ -98,6 +98,10 @@ Ensure to leave a blank line at the end
 Click `Create Launch Template`  
 Click `View launch templates`  
 
+The launch template resources should look as follows 
+<img width="940" height="390" alt="image" src="https://github.com/user-attachments/assets/f15e2f97-6adb-459a-aa3d-7fafb856a845" />
+
+
 # STAGE 2C - Launch an instance using it
 
 Select the launch template in the list ... it should be called `Wordpress`  
