@@ -158,7 +158,8 @@ Click `view Post`
 
 It should look something like this 
 
-<img width="646" height="281" alt="image" src="https://github.com/user-attachments/assets/88f0ec67-06c2-46d7-a4c9-d9112007a675" />
+<img width="708" height="393" alt="image" src="https://github.com/user-attachments/assets/4c37a863-3b94-4ee7-b5de-6ed0175b1e58" />
+
 
 This is your working, auto built WordPress instance
 ** don't terminate the instance this time - we're going to migrate the database in stage 3**
