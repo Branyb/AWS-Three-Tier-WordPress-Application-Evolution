@@ -2,7 +2,7 @@
 
 This demo takes you through the step by step requirements of building a Wordpress application, starting from a signle EC2 server, to gradually evolving it to a 3 tier architecture, following the well-architectured guildlines from AWS. 
 
-This demo has taken inspiration from Adrian Cantrill's AWS training guides, link: https://github.com/acantril/learn-cantrill-io-labs/tree/master/aws-elastic-wordpress-evolution, I'll also highlight the mistakes I made in this build and how I rec
+This demo has taken inspiration from Adrian Cantrill's AWS training guides, link: https://github.com/acantril/learn-cantrill-io-labs/tree/master/aws-elastic-wordpress-evolution, I'll also highlight the mistakes I made in this build and how I recover from issues along te way.
 
 The demo consists of 6 stages, each implementing additional components of the architecture:
 
