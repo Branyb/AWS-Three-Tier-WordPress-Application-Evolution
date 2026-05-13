@@ -113,6 +113,9 @@ Set `Key` to `Name` and `Value` to `Wordpress-LT`
 Scroll to the bottom and click `Launch Instance`  
 Click the instance id in the `Success` box
 
+<img width="940" height="330" alt="image" src="https://github.com/user-attachments/assets/04d3d2c0-b1d6-4ac0-b9e1-51f40b067881" />
+
+
 # STAGE 2D - Test
 *you will need to wait until the instance is running with 2/2 status checks before contuining*  
 
