@@ -123,7 +123,10 @@ Open the EC2 console https://console.aws.amazon.com/ec2/v2/home?region=us-east-1
 Select the `Wordpress-LT` instance  
 copy the `IPv4 Public IP` into your clipboard, don't click the link to open, this will use https and we want http, just copy the IP.   
 Open that IP in a new tab  
-You should see the WordPress welcome page  
+You should see the WordPress welcome page like so
+
+<img width="661" height="480" alt="image" src="https://github.com/user-attachments/assets/981eb0d7-6bea-42d0-8d95-3c7af7ae8ee1" />
+
 
 ## Perform Initial COnfiguration and make a post
 
@@ -152,6 +155,10 @@ Upload them
 Click `Publish`  
 Click `Publish`
 Click `view Post`  
+
+It should look something like this 
+
+<img width="646" height="281" alt="image" src="https://github.com/user-attachments/assets/88f0ec67-06c2-46d7-a4c9-d9112007a675" />
 
 This is your working, auto built WordPress instance
 ** don't terminate the instance this time - we're going to migrate the database in stage 3**
