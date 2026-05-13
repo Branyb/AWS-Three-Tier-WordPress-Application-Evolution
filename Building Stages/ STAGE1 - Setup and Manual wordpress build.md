@@ -244,7 +244,12 @@ Select some animal pictures.... if you dont have any use google images to downlo
 Upload them  
 Click `Publish`  
 Click `Publish`
-Click `view Post`  
+Click `view Post`
+
+It should look something like this 
+
+<img width="646" height="281" alt="image" src="https://github.com/user-attachments/assets/f79f6a1e-6210-445c-95bc-6b4e6bcb6e98" />
+
 
 This is your working, manually installed and configured wordpress
 
