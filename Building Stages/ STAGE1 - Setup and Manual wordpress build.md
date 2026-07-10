@@ -1,6 +1,6 @@
 # Advanced Demo - Web App - Single Server to Elastic Evolution
 
-![Stage1 - PNG](https://github.com/acantril/learn-cantrill-io-labs/blob/master/aws-elastic-wordpress-evolution/02_LABINSTRUCTIONS/STAGE1%20-%20SINGLE%20SERVER%20MANUAL.png)
+![Stage1 - PNG](https://github.com/Branyb/AWS-Three-Tier-WordPress-Application-Evolution/blob/main/Architecture%20Diagrams/Stage%201.jpg)
 
 In stage 1 of this advanced demo you will:
 - Setup the environment which WordPress will run from. 
