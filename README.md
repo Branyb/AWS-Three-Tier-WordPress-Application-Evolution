@@ -19,11 +19,17 @@ Stage 5 - Enable elasticity via a ASG & ALB and fix wordpress (hardcoded WPHOME)
 Stage 6 - Cleanup
 
 Each stage instructions
+
 [Stage1](https://github.com/Branyb/AWS-Three-Tier-WordPress-Application-Evolution/edit/main/Building%20Stages/%20STAGE1%20-%20Setup%20and%20Manual%20wordpress%20build.md)
+
 [Stage2](https://github.com/Branyb/AWS-Three-Tier-WordPress-Application-Evolution/blob/main/Building%20Stages/STAGE2%20-%20Automate%20the%20build%20using%20a%20Launch%20Template.md)
+
 [Stage3](https://github.com/Branyb/AWS-Three-Tier-WordPress-Application-Evolution/blob/main/Building%20Stages/STAGE3%20-%20Add%20RDS%20and%20Update%20the%20LT.md)
+
 [Stage4](https://github.com/Branyb/AWS-Three-Tier-WordPress-Application-Evolution/blob/main/Building%20Stages/STAGE4%20-%20Add%20EFS%20and%20Update%20the%20LT.md)
+
 [Stage5](https://github.com/Branyb/AWS-Three-Tier-WordPress-Application-Evolution/blob/main/Building%20Stages/STAGE5%20-%20Add%20an%20ELB%20and%20ASG.md)
+
 [Stage6](https://github.com/Branyb/AWS-Three-Tier-WordPress-Application-Evolution/blob/main/Building%20Stages/STAGE6%20-%20CLEANUP.md)
 
 1-Click Installs
